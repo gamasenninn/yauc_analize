@@ -6,6 +6,7 @@ import pyodbc
 import gc
 from dotenv import load_dotenv
 import re
+import sys
 
 # 環境変数からディレクトリのパスを設定
 load_dotenv()
